@@ -13,4 +13,4 @@ If you want to implement this bot here are the steps you can take:
   d) PHONE - the phone number you want the bot to text
 4. in main.py, rain_day_bot() definition add your coordinate location to the Tomorrow() constructor as shown in the comment in the file.
 5. In main.py, set the time you want to receive the text in GMT time-zone.
-6. 6. Set the Replit project to be "always on".
+6. Set the Replit project to be "always on".
